@@ -546,3 +546,10 @@ Github: rendito
 Nama: Rendito S
 Website: renditosulantio.com
 Pesan: Keep Calm and Love Programming
+
+Entry		: 77
+CodeSaya	: indar
+GitHub		: indarjoko
+Nama		: Indar Joko P.
+Website		: -
+Pesan		: Jadilah seperti padi, semakin berisi maka semakin merunduk
